@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huzai4a
-- 👀 I’m interested in braching out and learning more code.
+- 👀 I’m interested in branching out and learning more coding languages.
 - 🌱 I’m currently learning html, css, js
 
 <!---
