@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huzai4a
 - 👀 I’m interested in branching out and learning more coding languages.
-- 🌱 I’m currently learning html, css, js
+- 🌱 I’m currently learning python
 
 <!---
 huzai4a/huzai4a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
